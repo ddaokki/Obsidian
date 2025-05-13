@@ -1,0 +1,14 @@
+/* @settings
+name: Pink Title Color
+id: pink-title
+settings:
+  - id: title-color
+    title: 제목 색상
+    type: variable-color
+    format: hex
+    default: "#FF69B4"  /* 연핑크색 (HotPink) */
+*/ .markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+	color: var(--title-color);
+}
