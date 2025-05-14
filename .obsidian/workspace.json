@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/4.File System/4.1 File System - from the user's view.md",
+                "file": "OS/4.File System/4.2 Directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 File System - from the user's view"
+              "title": "4.2 Directories"
             }
           }
         ]
@@ -178,9 +178,12 @@
   },
   "active": "6db265dc049bbcc9",
   "lastOpenFiles": [
+    "Pasted image 20250513102416.png",
+    "Pasted image 20250513102410.png",
+    "OS/4.File System/4.1 File System - from the user's view.md",
+    "OS/4.File System/4.2 Directories.md",
     "Pasted image 20250513094516.png",
     "환영합니다!.md",
-    "OS/4.File System/4.1 File System - from the user's view.md",
     "무제",
     "Today's Todo+Diary/2025-05-07.md",
     "Today's Todo+Diary",
