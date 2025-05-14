@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "4.2 Directories"
             }
+          },
+          {
+            "id": "50abe0eebe6e4e6b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6db265dc049bbcc9",
+  "active": "50abe0eebe6e4e6b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "OS/4.File System/4.2 Directories.md",
     "Pasted image 20250513102416.png",
     "Pasted image 20250513102410.png",
     "OS/4.File System/4.1 File System - from the user's view.md",
-    "OS/4.File System/4.2 Directories.md",
     "Pasted image 20250513094516.png",
     "환영합니다!.md",
     "무제",
