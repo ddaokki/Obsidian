@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "679e849e17156818",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "OS/4.File System/4.3 File Syetem Implemention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "4.3 File Syetem Implemention 의 백링크"
             }
           },
           {
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,16 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a0ea278e6055773",
+  "active": "be960b5612727f01",
   "lastOpenFiles": [
-    "Pasted image 20250516055023.png",
-    "Pasted image 20250516054552.png",
-    "Pasted image 20250516054042.png",
+    "OS/4.File System/Pasted image 20250516054042.png",
+    "OS/4.File System/4.3 File Syetem Implemention.md",
+    "OS/4.File System/Pasted image 20250516055023.png",
+    "OS/4.File System/Pasted image 20250516054552.png",
     "OS/4.File System/Pasted image 20250513102410.png",
     "OS/4.File System/File Operations.png",
     "OS/4.File System/Pasted image 20250513102416.png",
     "OS/4.File System/File Structure.png",
-    "OS/4.File System/4.3 File Syetem Implemention.md",
     "OS/4.File System/4.2 Directories.md",
     "OS/4.File System/4.1 File System - from the user's view.md",
     "Today's Todo+Diary/2025-05-16.md",
