@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "679e849e17156818",
@@ -161,7 +162,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,6 +182,7 @@
   },
   "active": "4a0ea278e6055773",
   "lastOpenFiles": [
+    "Pasted image 20250516101428.png",
     "OS/4.File System/4.4 FS Management & Optimization.md",
     "OS/4.File System/4.3 File Syetem Implemention.md",
     "무제.md",
