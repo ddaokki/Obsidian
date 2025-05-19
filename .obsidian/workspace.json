@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/4.File System/4.3 File Syetem Implemention.md",
+                "file": "OS/4.File System/4.2 Directories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 File Syetem Implemention"
+              "title": "4.2 Directories"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "679e849e17156818",
@@ -180,11 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a0ea278e6055773",
+  "active": "71ee07c8190f8f3d",
   "lastOpenFiles": [
+    "OS/4.File System/4.3 File Syetem Implemention.md",
     "Pasted image 20250516101428.png",
     "OS/4.File System/4.4 FS Management & Optimization.md",
-    "OS/4.File System/4.3 File Syetem Implemention.md",
     "무제.md",
     "OS/4.File System/Pasted image 20250516055023.png",
     "OS/4.File System/Pasted image 20250516054552.png",
@@ -205,7 +204,6 @@
     "Computer Structure",
     "OS/4.File System/File Types.png",
     "Pasted image 20250506114001.png",
-    "Pasted image 20250506113046.png",
     "OS/4.File System",
     "Welcome.md",
     "OS"
