@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef746ac50f9c7ed",
+        "id": "353a858499a20a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "6db265dc049bbcc9",
+            "id": "8cfa7e74360aec3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,10 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6db265dc049bbcc9",
+  "active": "8cfa7e74360aec3c",
   "lastOpenFiles": [
     "DB/15.Buffer and Indexing.md",
+    "Today's Todo+Diary/2025-05-19.md",
+    "무제.canvas",
+    "OS/4.File System/4.4 FS Management & Optimization.md",
+    "OS/4.File System/4.3 File Syetem Implemention.md",
+    "OS/img/4/Pasted image 20250516101428.png",
+    "OS/img/4/File Structure.png",
+    "OS/img/4/Pasted image 20250516055023.png",
     "DB/16.Indexing – B+-tree.md",
+    "OS/img/4",
+    "OS/img",
     "DB/img/15/BufferManager-Read.png",
     "DB/img/16",
     "DB/img/15",
@@ -193,20 +202,13 @@
     "DB/img/15/Dense_Index_1.png",
     "DB/img/15/Multilevel_index.png",
     "DB/img/15/Secondary_index.png",
-    "DB/img/15/Structure_of_buffer_and_Disk.png",
-    "OS/4.File System/4.4 FS Management & Optimization.md",
-    "OS/4.File System/File Operations.png",
-    "OS/4.File System/File Structure.png",
     "OS/4.File System/4.2 Directories.md",
     "OS/4.File System/4.1 File System - from the user's view.md",
     "DB",
-    "OS/4.File System/4.3 File Syetem Implemention.md",
     "Today's Todo+Diary/2025-05-16.md",
     "conflict-files-obsidian-git.md",
     "환영합니다!.md",
     "Today's Todo+Diary/2025-05-07.md",
-    "Today's Todo+Diary",
-    "OS/4.File System",
-    "OS"
+    "Today's Todo+Diary"
   ]
 }
