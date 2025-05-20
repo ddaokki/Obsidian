@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Today's Todo+Diary/2025-05-20.md",
+                "file": "DB/16.Indexing – B+-tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-20"
+              "title": "16.Indexing – B+-tree"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "679e849e17156818",
@@ -181,10 +182,10 @@
   },
   "active": "4a0ea278e6055773",
   "lastOpenFiles": [
+    "Today's Todo+Diary/2025-05-20.md",
     "Today's Todo+Diary/2025-05-19.md",
     "Today's Todo+Diary/2025-05-16.md",
     "Today's Todo+Diary/2025-05-07.md",
-    "Today's Todo+Diary/2025-05-20.md",
     "OS/4.File System/4.3 File Syetem Implemention.md",
     "DB/16.Indexing – B+-tree.md",
     "Pasted image 20250520132826.png",
