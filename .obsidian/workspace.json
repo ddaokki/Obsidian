@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "4.3 File Syetem Implemention"
             }
+          },
+          {
+            "id": "639667b4a5a51155",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,33 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a0ea278e6055773",
+  "active": "639667b4a5a51155",
   "lastOpenFiles": [
-    "OS/4.File System/4.4 FS Management & Optimization.md",
+    "DB/img/15/Dense_Index_2.png",
+    "OS/img/4/File Operations.png",
+    "conflict-files-obsidian-git.md",
     "OS/4.File System/4.3 File Syetem Implemention.md",
+    "Today's Todo+Diary/2025-05-19.md",
+    "OS/img/4/Pasted image 20250516055023.png",
+    "OS/img/4/Pasted image 20250516101428.png",
+    "OS/img/4/Pasted image 20250516054042.png",
+    "OS/img/4/Pasted image 20250516054552.png",
+    "OS/img/4/Pasted image 20250513102416.png",
+    "OS/img/4/Pasted image 20250513102410.png",
+    "OS/img/4/File Types.png",
+    "OS/img/4/File Structure.png",
+    "OS/img/4",
+    "OS/img",
+    "DB/img/15",
+    "DB/img",
+    "DB/16.Indexing – B+-tree.md",
+    "DB/15.Buffer and Indexing.md",
+    "DB",
+    "OS/4.File System/4.4 FS Management & Optimization.md",
     "OS/4.File System/4.2 Directories.md",
-    "Pasted image 20250516101428.png",
     "무제.md",
-    "OS/4.File System/Pasted image 20250516055023.png",
-    "OS/4.File System/Pasted image 20250516054552.png",
-    "OS/4.File System/Pasted image 20250516054042.png",
-    "OS/4.File System/Pasted image 20250513102416.png",
-    "OS/4.File System/Pasted image 20250513102410.png",
-    "OS/4.File System/File Operations.png",
-    "OS/4.File System/File Structure.png",
     "OS/4.File System/4.1 File System - from the user's view.md",
     "Today's Todo+Diary/2025-05-16.md",
     "Today's Todo+Diary/2025-05-07.md",
-    "conflict-files-obsidian-git.md",
     "무제.canvas",
     "Database",
     "Today's Todo+Diary",
     "Computer Network",
     "Computer Structure",
-    "OS/4.File System/File Types.png",
-    "Pasted image 20250506114001.png",
     "OS/4.File System",
-    "Welcome.md",
-    "OS"
+    "Welcome.md"
   ]
 }
