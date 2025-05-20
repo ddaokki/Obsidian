@@ -25,14 +25,14 @@
             "id": "639667b4a5a51155",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "DB/16.Indexing – B+-tree.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "16.Indexing – B+-tree"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "679e849e17156818",
@@ -196,6 +197,12 @@
   },
   "active": "639667b4a5a51155",
   "lastOpenFiles": [
+    "Pasted image 20250520132826.png",
+    "Pasted image 20250520131744.png",
+    "Pasted image 20250520131550.png",
+    "OS/4.File System/4.4 FS Management & Optimization.md",
+    "DB/15.Buffer and Indexing.md",
+    "DB/16.Indexing – B+-tree.md",
     "DB/img/15/Dense_Index_2.png",
     "OS/img/4/File Operations.png",
     "conflict-files-obsidian-git.md",
@@ -207,16 +214,11 @@
     "OS/img/4/Pasted image 20250516054552.png",
     "OS/img/4/Pasted image 20250513102416.png",
     "OS/img/4/Pasted image 20250513102410.png",
-    "OS/img/4/File Types.png",
-    "OS/img/4/File Structure.png",
     "OS/img/4",
     "OS/img",
     "DB/img/15",
     "DB/img",
-    "DB/16.Indexing – B+-tree.md",
-    "DB/15.Buffer and Indexing.md",
     "DB",
-    "OS/4.File System/4.4 FS Management & Optimization.md",
     "OS/4.File System/4.2 Directories.md",
     "무제.md",
     "OS/4.File System/4.1 File System - from the user's view.md",
