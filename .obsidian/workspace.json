@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/16.Indexing – B+-tree.md",
+                "file": "BplusTree_8to21_KR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.Indexing – B+-tree"
+              "title": "BplusTree_8to21_KR"
             }
           }
         ]
@@ -178,11 +178,15 @@
   },
   "active": "8cfa7e74360aec3c",
   "lastOpenFiles": [
+    "BplusTree_Structure_Korean.md",
+    "BplusTree_8to21_KR.md",
+    "BplusTree_Lecture8-21.md",
+    "DB/16.Indexing – B+-tree.md",
+    "DB/15.Buffer and Indexing.md",
     "Today's Todo+Diary/2025-05-20.md",
     "Pasted image 20250520132826.png",
     "Pasted image 20250520131744.png",
     "Pasted image 20250520131550.png",
-    "DB/15.Buffer and Indexing.md",
     "Today's Todo+Diary/2025-05-19.md",
     "무제.canvas",
     "OS/4.File System/4.4 FS Management & Optimization.md",
@@ -190,7 +194,6 @@
     "OS/img/4/Pasted image 20250516101428.png",
     "OS/img/4/File Structure.png",
     "OS/img/4/Pasted image 20250516055023.png",
-    "DB/16.Indexing – B+-tree.md",
     "OS/img/4",
     "OS/img",
     "DB/img/15/BufferManager-Read.png",
