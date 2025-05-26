@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5ab7e868fffaba42",
+    "id": "4c6a35740561b598",
     "type": "split",
     "children": [
       {
-        "id": "353a858499a20a5b",
+        "id": "4b386ab70091aadb",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfa7e74360aec3c",
+            "id": "4a0ea278e6055773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BplusTree_8to21_KR.md",
+                "file": "Computer Network/CH3 - After UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BplusTree_8to21_KR"
+              "title": "CH3 - After UDP"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "20af8a1ec48ba065",
+    "id": "c340631bba1df70c",
     "type": "split",
     "children": [
       {
-        "id": "3e3d7b40b83617c3",
+        "id": "79a617b4a1791407",
         "type": "tabs",
         "children": [
           {
-            "id": "f1f2c3364131e1be",
+            "id": "71ee07c8190f8f3d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "445c987b745f784e",
+            "id": "f3a2c64b01f19bed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9f7ea877097b4639",
+            "id": "23425e8cb8e3eb8c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,22 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "21121608896c32df",
+    "id": "679e849e17156818",
     "type": "split",
     "children": [
       {
-        "id": "af0abd38047b805d",
+        "id": "64db74091c8a28aa",
         "type": "tabs",
         "children": [
           {
-            "id": "9ea4cb3178cf63cc",
+            "id": "be960b5612727f01",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS/4.File System/4.3 File Syetem Implemention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "4.3 File Syetem Implemention 의 백링크"
             }
           },
           {
-            "id": "4b156a3cdf3c5186",
+            "id": "df423f8c463759de",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "03643927871a9167",
+            "id": "c3a2336bc32a4392",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,25 +134,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "태그"
+              "title": "Tags"
             }
           },
           {
-            "id": "fd9495c151020021",
+            "id": "98d75fc4150da0c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "6e20106c54117d0b",
+            "id": "481781488ca08f7f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,43 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfa7e74360aec3c",
+  "active": "4a0ea278e6055773",
   "lastOpenFiles": [
-    "BplusTree_Structure_Korean.md",
-    "BplusTree_8to21_KR.md",
-    "BplusTree_Lecture8-21.md",
     "DB/16.Indexing – B+-tree.md",
-    "DB/15.Buffer and Indexing.md",
+    "Computer Network/CH3 - After UDP.md",
+    "Computer Network",
+    "BplusTree_Structure_Korean.md",
+    "BplusTree_Lecture8-21.md",
+    "BplusTree_8to21_KR.md",
     "Today's Todo+Diary/2025-05-20.md",
+    "Today's Todo+Diary/2025-05-19.md",
+    "Today's Todo+Diary/2025-05-16.md",
+    "Today's Todo+Diary/2025-05-07.md",
+    "OS/4.File System/4.3 File Syetem Implemention.md",
     "Pasted image 20250520132826.png",
     "Pasted image 20250520131744.png",
     "Pasted image 20250520131550.png",
-    "Today's Todo+Diary/2025-05-19.md",
-    "무제.canvas",
     "OS/4.File System/4.4 FS Management & Optimization.md",
-    "OS/4.File System/4.3 File Syetem Implemention.md",
-    "OS/img/4/Pasted image 20250516101428.png",
-    "OS/img/4/File Structure.png",
+    "DB/15.Buffer and Indexing.md",
+    "DB/img/15/Dense_Index_2.png",
+    "OS/img/4/File Operations.png",
+    "conflict-files-obsidian-git.md",
     "OS/img/4/Pasted image 20250516055023.png",
+    "OS/img/4/Pasted image 20250516101428.png",
+    "OS/img/4/Pasted image 20250516054042.png",
+    "OS/img/4/Pasted image 20250516054552.png",
+    "OS/img/4/Pasted image 20250513102416.png",
     "OS/img/4",
     "OS/img",
-    "DB/img/15/BufferManager-Read.png",
-    "DB/img/16",
     "DB/img/15",
     "DB/img",
-    "DB/img/15/Structure_of_Index_File.png",
-    "DB/15_img",
-    "무제 1",
-    "무제",
-    "DB/img/15/Sparse_Index.png",
-    "DB/img/15/Dense_Index_2.png",
-    "OS/4.File System/4.2 Directories.md",
-    "OS/4.File System/4.1 File System - from the user's view.md",
     "DB",
-    "Today's Todo+Diary/2025-05-16.md",
-    "conflict-files-obsidian-git.md",
-    "환영합니다!.md",
-    "Today's Todo+Diary/2025-05-07.md",
-    "Today's Todo+Diary"
+    "OS/4.File System/4.2 Directories.md",
+    "무제.md",
+    "OS/4.File System/4.1 File System - from the user's view.md",
+    "무제.canvas",
+    "Database",
+    "Today's Todo+Diary",
+    "Computer Network",
+    "Computer Structure",
+    "Welcome.md"
   ]
 }
