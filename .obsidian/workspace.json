@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/CH3 - After UDP.md",
+                "file": "DB/16.Indexing – B+-tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH3 - After UDP"
+              "title": "16.Indexing – B+-tree"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "679e849e17156818",
@@ -182,8 +181,8 @@
   },
   "active": "4a0ea278e6055773",
   "lastOpenFiles": [
-    "DB/16.Indexing – B+-tree.md",
     "Computer Network/CH3 - After UDP.md",
+    "DB/16.Indexing – B+-tree.md",
     "Computer Network",
     "BplusTree_Structure_Korean.md",
     "BplusTree_Lecture8-21.md",
