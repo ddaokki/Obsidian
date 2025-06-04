@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "679e849e17156818",
@@ -182,9 +181,13 @@
   },
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
+    "Computer Network/CH3/5. Principles of reliable data transfer.md",
+    "Computer Network/CH3/3-5. Principles of reliable data transfer/무제.md",
+    "Computer Network/CH3 - After UDP.md",
+    "Computer Network/CH3/3-5. Principles of reliable data transfer",
+    "Computer Network/CH3",
     "2025-06-04.md",
     "DB/16.Indexing – B+-tree.md",
-    "Computer Network/CH3 - After UDP.md",
     "Computer Network",
     "BplusTree_Structure_Korean.md",
     "BplusTree_Lecture8-21.md",
@@ -218,8 +221,6 @@
     "무제.canvas",
     "Database",
     "Today's Todo+Diary",
-    "Computer Network",
-    "Computer Structure",
     "Welcome.md"
   ]
 }
