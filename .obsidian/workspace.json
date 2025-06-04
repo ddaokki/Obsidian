@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/CH3 - After UDP.md",
+                "file": "Computer Network/CH3/6. Connection-oriented transport TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH3 - After UDP"
+              "title": "6. Connection-oriented transport TCP"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "679e849e17156818",
@@ -182,8 +183,9 @@
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
     "Computer Network/CH3/5. Principles of reliable data transfer.md",
-    "Computer Network/CH3/3-5. Principles of reliable data transfer/무제.md",
+    "Computer Network/CH3/6. Connection-oriented transport TCP.md",
     "Computer Network/CH3 - After UDP.md",
+    "Computer Network/CH3/3-5. Principles of reliable data transfer/무제.md",
     "Computer Network/CH3/3-5. Principles of reliable data transfer",
     "Computer Network/CH3",
     "2025-06-04.md",
