@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/16.Indexing – B+-tree.md",
+                "file": "DB/18.Hashing_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.Indexing – B+-tree"
+              "title": "18.Hashing_2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "679e849e17156818",
@@ -181,7 +182,8 @@
   },
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
-    "DB/17-18. Hashing.md",
+    "DB/17.Hashing_1.md",
+    "DB/18.Hashing_2.md",
     "DB/16.Indexing – B+-tree.md",
     "DB/15.Buffer and Indexing.md",
     "Computer Network/CH3/6. Connection-oriented transport TCP.md",
