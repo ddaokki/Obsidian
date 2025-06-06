@@ -11,12 +11,14 @@
             "id": "20f373ad2fdc4523",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DB/img/Pasted image 20250520131550.png"
+                "file": "Today's Todo+Diary/2025-06-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250520131550"
+              "icon": "lucide-file",
+              "title": "2025-06-06"
             }
           }
         ]
@@ -177,14 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71ee07c8190f8f3d",
+  "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
+    "Computer Structure/CH4/4.1.md",
+    "Today's Todo+Diary/2025-06-06.md",
+    "DB/img/Pasted image 20250520131550.png",
     "무제",
     "Computer Graphic",
     "Computer Structure/CH4",
     "Computer Structure",
     "DB/img/Pasted image 20250520132826.png",
-    "DB/img/Pasted image 20250520131550.png",
     "DB/img/Pasted image 20250520131744.png",
     "Pasted image 20250606175339.png",
     "BplusTree_Structure_Korean.md",
@@ -223,8 +227,6 @@
     "OS/img/4",
     "OS/img",
     "DB/img/15",
-    "DB/img",
-    "OS/4.File System/4.2 Directories.md",
     "무제.canvas"
   ]
 }
