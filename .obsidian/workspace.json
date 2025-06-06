@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/18.Hashing_2.md",
+                "file": "DB/25.recovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.Hashing_2"
+              "title": "25.recovery"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
-    "DB/17.Hashing_1.md",
     "DB/18.Hashing_2.md",
+    "DB/25.recovery.md",
+    "DB/17.Hashing_1.md",
     "DB/16.Indexing – B+-tree.md",
     "DB/15.Buffer and Indexing.md",
     "Computer Network/CH3/6. Connection-oriented transport TCP.md",
