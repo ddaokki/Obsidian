@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/18.Hashing_2.md",
+                "file": "Computer Network/CH4/4.5 Middleboxes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.Hashing_2"
+              "title": "4.5 Middleboxes"
             }
           }
         ]
@@ -181,6 +181,17 @@
   },
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
+    "Computer Network/CH4/Summary + Additonal Slides.md",
+    "Computer Network/CH4/4.5 Middleboxes.md",
+    "Computer Network/CH4/4.4 Generalized Forwarding, SDN.md",
+    "Computer Network/CH4/4.3 IP.md",
+    "Computer Network/CH4/4.2 Router.md",
+    "Computer Network/CH4/4.1 Network Layer - Overview.md",
+    "Computer Network/CH3/5. Principles of reliable data transfer.md",
+    "Computer Network/CH3/+.Summary + Additional Slides.md",
+    "Computer Structure/CH4/4.1.md",
+    "Computer Network/CH4",
+    "DB/18.Hashing_2.md",
     "OS/4.File System/4.1 File System - from the user's view.md",
     "OS/4.File System/4.2 Directories.md",
     "OS/4.File System/4.3 File Syetem Implemention.md",
@@ -192,9 +203,7 @@
     "Today's Todo+Diary/2025-05-20.md",
     "Today's Todo+Diary/2025-06-04.md",
     "DB/25.recovery.md",
-    "DB/18.Hashing_2.md",
     "DB/16.Indexing – B+-tree.md",
-    "Computer Structure/CH4/4.1.md",
     "DB/img/Pasted image 20250520131550.png",
     "무제",
     "Computer Graphic",
@@ -207,14 +216,6 @@
     "BplusTree_8to21_KR.md",
     "Computer Network/CH3/9.Evolution of transport-layer functionality.md",
     "Computer Network/CH3/8.TCP congestion control.md",
-    "Computer Network/CH3/+.Summary + Additional Slides.md",
-    "Computer Network/CH3/7.Principles of congestion control.md",
-    "Computer Network/CH3/6. Connection-oriented transport TCP.md",
-    "Computer Network/CH3/5. Principles of reliable data transfer.md",
-    "DB/17.Hashing_1.md",
-    "DB/15.Buffer and Indexing.md",
-    "Computer Network/CH3 - After UDP.md",
-    "Computer Network/CH3/3-5. Principles of reliable data transfer/무제.md",
     "Computer Network/CH3/3-5. Principles of reliable data transfer",
     "Computer Network/CH3",
     "Computer Network",
@@ -226,7 +227,6 @@
     "OS/img/4/Pasted image 20250516054552.png",
     "OS/img/4",
     "OS/img",
-    "DB/img/15",
     "무제.canvas"
   ]
 }
