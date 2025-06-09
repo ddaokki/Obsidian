@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/CH4/4.2 Router.md",
+                "file": "Computer Network/CH4/4.3 IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Router"
+              "title": "4.3 IP"
             }
           }
         ]
@@ -182,12 +182,12 @@
   },
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
+    "Computer Network/CH4/4.2 Router.md",
     "Computer Network/CH4/4.1 Network Layer - Overview.md",
     "Computer Network/CH4/Summary + Additonal Slides.md",
     "Computer Network/CH4/4.5 Middleboxes.md",
     "Computer Network/CH4/4.4 Generalized Forwarding, SDN.md",
     "Computer Network/CH4/4.3 IP.md",
-    "Computer Network/CH4/4.2 Router.md",
     "Computer Network/CH3/5. Principles of reliable data transfer.md",
     "Computer Network/CH3/+.Summary + Additional Slides.md",
     "Computer Structure/CH4/4.1.md",
