@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98000e3c238cec5e",
+        "id": "703790b6a7e687aa",
         "type": "tabs",
         "children": [
           {
-            "id": "20f373ad2fdc4523",
+            "id": "e6872cc756c7164c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/20.LSM-Tree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20.LSM-Tree"
+              "title": "새 탭"
             }
           }
         ]
@@ -180,11 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20f373ad2fdc4523",
+  "active": "e6872cc756c7164c",
   "lastOpenFiles": [
-    "DB/22.Corruency Control-1.md",
     "DB/21.Query-Processing.md",
     "DB/20.LSM-Tree.md",
+    "DB/22.Corruency Control-1.md",
     "DB/19.Transaction.md",
     "DB/23.Corruency Control-2.md",
     "DB/24.Corruency Control-3.md",
