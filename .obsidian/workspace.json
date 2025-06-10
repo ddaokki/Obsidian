@@ -11,10 +11,14 @@
             "id": "83048c2750f003c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DB/22.Corruency Control-1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "22.Corruency Control-1"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "481781488ca08f7f",
+  "active": "83048c2750f003c8",
   "lastOpenFiles": [
     "DB/21.Query-Processing.md",
     "DB/20.LSM-Tree.md",
