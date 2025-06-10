@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "679e849e17156818",
@@ -181,17 +182,17 @@
   },
   "active": "20f373ad2fdc4523",
   "lastOpenFiles": [
+    "DB/22.Corruency Control-1.md",
     "DB/21.Query-Processing.md",
+    "DB/20.LSM-Tree.md",
+    "DB/19.Transaction.md",
+    "DB/23.Corruency Control-2.md",
+    "DB/24.Corruency Control-3.md",
+    "DB/25.recovery.md",
+    "DB/18.Hashing_2.md",
     "DB/img/15/Pasted image 20250520132826.png",
     "DB/img/15/Pasted image 20250520131744.png",
     "DB/img/15/Pasted image 20250520131550.png",
-    "DB/22.Corruency Control-1.md",
-    "DB/25.recovery.md",
-    "DB/20.LSM-Tree.md",
-    "DB/24.Corruency-3.md",
-    "DB/23.Corruency-2.md",
-    "DB/18.Hashing_2.md",
-    "DB/19.Transaction.md",
     "OS/4.File System/4.4 FS Management & Optimization.md",
     "BplusTree_Lecture8-21.md",
     "Computer Structure/CH4/4.1.md",
