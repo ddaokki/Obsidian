@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/8.Multiple Processor Systems/8.1 Multiprocessors.md",
+                "file": "OS/4.File System/4.4 FS Management & Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.1 Multiprocessors"
+              "title": "4.4 FS Management & Optimization"
             }
           }
         ]
@@ -182,9 +182,11 @@
   },
   "active": "83048c2750f003c8",
   "lastOpenFiles": [
-    "OS/4.File System/4.4 FS Management & Optimization.md",
-    "OS/8.Multiple Processor Systems/8.1 Multiprocessors.md",
     "OS/4.File System/4.3 File Syetem Implemention.md",
+    "OS/4.File System/4.1 File System - from the user's view.md",
+    "OS/4.File System/4.4 FS Management & Optimization.md",
+    "OS/4.File System/4.5 Unix V7 File System.md",
+    "OS/8.Multiple Processor Systems/8.1 Multiprocessors.md",
     "OS/6.Deadlocks/6.6. Deadlock prevention.md",
     "OS/8.Multiple Processor Systems",
     "OS/6.Deadlocks/6.5. Deadlock avoidance.md",
@@ -196,10 +198,8 @@
     "OS/5.Input-Output/5.4 Disks.md",
     "OS/5.Input-Output/5.2 Principles of I-O software.md",
     "OS/5.Input-Output/5.1 Principles of I-O hardware.md",
-    "OS/4.File System/4.5 Unix V7 File System.md",
     "OS/5.Input-Output",
     "OS/4.File System/4.2 Directories.md",
-    "OS/4.File System/4.1 File System - from the user's view.md",
     "Computer Network/CH4/4.3 IP.md",
     "Computer Network/CH4/4.4 Generalized Forwarding, SDN.md",
     "DB/24.Corruency Control-3.md",
