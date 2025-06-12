@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/5.Input-Output/5.2 Principles of I-O software.md",
+                "file": "OS/8.Multiple Processor Systems/8.1 Multiprocessors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Principles of I-O software"
+              "title": "8.1 Multiprocessors"
             }
           }
         ]
@@ -182,15 +182,22 @@
   },
   "active": "83048c2750f003c8",
   "lastOpenFiles": [
-    "OS/5.Input-Output/5.1 Principles of I-O hardware.md",
+    "OS/4.File System/4.4 FS Management & Optimization.md",
+    "OS/8.Multiple Processor Systems/8.1 Multiprocessors.md",
+    "OS/4.File System/4.3 File Syetem Implemention.md",
+    "OS/6.Deadlocks/6.6. Deadlock prevention.md",
+    "OS/8.Multiple Processor Systems",
+    "OS/6.Deadlocks/6.5. Deadlock avoidance.md",
+    "OS/6.Deadlocks/6.4. Deadlock detection and recovery.md",
+    "OS/6.Deadlocks/6.2. Introduction to deadlocks.md",
     "OS/5.Input-Output/5.5 Clocks.md",
-    "OS/5.Input-Output/5.4 Disks.md",
+    "OS/6.Deadlocks",
     "OS/5.Input-Output/5.3 I-O software layers.md",
+    "OS/5.Input-Output/5.4 Disks.md",
     "OS/5.Input-Output/5.2 Principles of I-O software.md",
+    "OS/5.Input-Output/5.1 Principles of I-O hardware.md",
     "OS/4.File System/4.5 Unix V7 File System.md",
     "OS/5.Input-Output",
-    "OS/4.File System/4.4 FS Management & Optimization.md",
-    "OS/4.File System/4.3 File Syetem Implemention.md",
     "OS/4.File System/4.2 Directories.md",
     "OS/4.File System/4.1 File System - from the user's view.md",
     "Computer Network/CH4/4.3 IP.md",
@@ -205,14 +212,9 @@
     "Computer Network/CH4/Summary + Additonal Slides.md",
     "DB/21.Query-Processing.md",
     "DB/20.LSM-Tree.md",
-    "DB/19.Transaction.md",
-    "DB/25.recovery.md",
-    "DB/18.Hashing_2.md",
     "DB/img/15/Pasted image 20250520132826.png",
     "DB/img/15/Pasted image 20250520131744.png",
     "DB/img/15/Pasted image 20250520131550.png",
-    "BplusTree_Lecture8-21.md",
-    "Computer Structure/CH4/4.1.md",
     "Computer Network/CH4",
     "무제",
     "Computer Graphic",
@@ -220,8 +222,6 @@
     "Computer Structure",
     "Pasted image 20250606175339.png",
     "Computer Network/CH3/3-5. Principles of reliable data transfer",
-    "Computer Network/CH3",
-    "Computer Network",
     "DB/img/15/Dense_Index_2.png",
     "OS/img/4/File Operations.png",
     "OS/img/4/Pasted image 20250516055023.png",
