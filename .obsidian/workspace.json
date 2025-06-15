@@ -11,10 +11,14 @@
             "id": "8cfa7e74360aec3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/CH3/5. Principles of reliable data transfer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "5. Principles of reliable data transfer"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "8cfa7e74360aec3c",
   "lastOpenFiles": [
+    "Computer Network/CH3/+.Summary + Additional Slides.md",
     "BplusTree_8to21_KR.md",
     "Today's Todo+Diary/2025-06-06.md",
     "Today's Todo+Diary/2025-06-04.md",
@@ -207,7 +212,6 @@
     "Computer Structure",
     "Computer Network/CH3/8.TCP congestion control.md",
     "Computer Network/CH5/5.2 Routing Protocols.md",
-    "Computer Network/CH5/5.1Introduction.md",
     "Computer Network/CH5",
     "Computer Network/CH3",
     "Computer Network/CH4",
