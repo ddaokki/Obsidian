@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/CH4/4.3 IP.md",
+                "file": "Computer Network/CH4/4.5 Middleboxes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 IP"
+              "title": "4.5 Middleboxes"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "21121608896c32df",
@@ -179,9 +178,9 @@
   },
   "active": "7cc70948ea801833",
   "lastOpenFiles": [
-    "Computer Network/CH4/4.2 Router.md",
-    "Computer Network/CH4/4.3 IP.md",
     "Computer Network/CH4/4.4 Generalized Forwarding, SDN.md",
+    "Computer Network/CH4/4.3 IP.md",
+    "Computer Network/CH4/4.2 Router.md",
     "DB/24.Corruency Control-3.md",
     "DB/23.Corruency Control-2.md",
     "DB/22.Corruency Control-1.md",
