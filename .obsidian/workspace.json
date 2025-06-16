@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "353a858499a20a5b",
+        "id": "953df9d0e92bcaf0",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfa7e74360aec3c",
+            "id": "7cc70948ea801833",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "21121608896c32df",
@@ -176,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cfa7e74360aec3c",
+  "active": "7cc70948ea801833",
   "lastOpenFiles": [
     "Computer Network/CH3/+.Summary + Additional Slides.md",
+    "Computer Network/CH3/5. Principles of reliable data transfer.md",
     "BplusTree_8to21_KR.md",
     "Today's Todo+Diary/2025-06-06.md",
     "Today's Todo+Diary/2025-06-04.md",
@@ -211,7 +213,6 @@
     "Computer Structure/CH4",
     "Computer Structure",
     "Computer Network/CH3/8.TCP congestion control.md",
-    "Computer Network/CH5/5.2 Routing Protocols.md",
     "Computer Network/CH5",
     "Computer Network/CH3",
     "Computer Network/CH4",
