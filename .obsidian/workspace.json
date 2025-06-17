@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/21.Query-Processing.md",
+                "file": "Computer Structure/CH4/4.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21.Query-Processing"
+              "title": "4.1"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "6dcc9e49229778f9",
   "lastOpenFiles": [
+    "DB/21.Query-Processing.md",
     "DB/19.Transaction.md",
     "DB/17.Hashing_1.md",
     "DB/16.Indexing – B+-tree.md",
@@ -244,7 +245,6 @@
     "DB/24.Corruency Control-3.md",
     "DB/23.Corruency Control-2.md",
     "DB/22.Corruency Control-1.md",
-    "DB/21.Query-Processing.md",
     "DB/25.recovery.md",
     "Computer Network/CH5/5.2 Routing Protocols.md",
     "Computer Network/CH4/4.5 Middleboxes.md",
