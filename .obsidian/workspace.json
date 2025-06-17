@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/16.Indexing – B+-tree.md",
+                "file": "DB/17.Hashing_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.Indexing – B+-tree"
+              "title": "17.Hashing_1"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "6dcc9e49229778f9",
   "lastOpenFiles": [
+    "DB/16.Indexing – B+-tree.md",
     "DB/18.Hashing_2.md",
     "DB/17.Hashing_1.md",
     "DB/20.LSM-Tree.md",
@@ -261,7 +262,6 @@
     "Computer Network/CH3/5. Principles of reliable data transfer.md",
     "BplusTree_8to21_KR.md",
     "Today's Todo+Diary/2025-06-06.md",
-    "Today's Todo+Diary/2025-06-04.md",
     "OS/8.Multiple Processor Systems",
     "OS/6.Deadlocks",
     "OS/5.Input-Output",
