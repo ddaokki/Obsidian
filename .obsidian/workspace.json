@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/18.Hashing_2.md",
+                "file": "DB/16.Indexing – B+-tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.Hashing_2"
+              "title": "16.Indexing – B+-tree"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "6dcc9e49229778f9",
   "lastOpenFiles": [
+    "DB/18.Hashing_2.md",
     "DB/17.Hashing_1.md",
     "DB/20.LSM-Tree.md",
     "DB/24.Corruency Control-3.md",
@@ -261,7 +262,6 @@
     "BplusTree_8to21_KR.md",
     "Today's Todo+Diary/2025-06-06.md",
     "Today's Todo+Diary/2025-06-04.md",
-    "OS/8.Multiple Processor Systems/8.1 Multiprocessors.md",
     "OS/8.Multiple Processor Systems",
     "OS/6.Deadlocks",
     "OS/5.Input-Output",
