@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/CH5/5.2 Routing Protocols.md",
+                "file": "DB/22.Corruency Control-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Routing Protocols"
+              "title": "22.Corruency Control-1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "21121608896c32df",
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +180,7 @@
   },
   "active": "7cc70948ea801833",
   "lastOpenFiles": [
+    "Computer Network/CH5/5.2 Routing Protocols.md",
     "Computer Network/CH4/4.5 Middleboxes.md",
     "Computer Network/CH4/4.4 Generalized Forwarding, SDN.md",
     "Computer Network/CH4/4.3 IP.md",
@@ -186,7 +189,6 @@
     "DB/23.Corruency Control-2.md",
     "DB/22.Corruency Control-1.md",
     "Computer Network/CH4/4.1 Network Layer - Overview.md",
-    "Computer Network/CH5/5.2 Routing Protocols.md",
     "Computer Network/CH5/5.1Introduction.md",
     "Computer Network/CH4/Summary + Additonal Slides.md",
     "Computer Network/CH3/+.Summary + Additional Slides.md",
