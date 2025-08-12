@@ -11,14 +11,14 @@
             "id": "a088057e77e70610",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Computer Network-Book/CH7.통신을 도와주는 네트워크 주요 기술.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "CH7.통신을 도와주는 네트워크 주요 기술"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "right": {
     "id": "679e849e17156818",
@@ -181,6 +181,8 @@
   },
   "active": "a088057e77e70610",
   "lastOpenFiles": [
+    "Computer Network-Book/CH7.통신을 도와주는 네트워크 주요 기술.md",
+    "Computer Network-Book",
     "OS/6.Deadlocks/6.4. Deadlock detection and recovery.md",
     "conflict-files-obsidian-git.md",
     "OS/6.Deadlocks/6.2. Introduction to deadlocks.md",
@@ -207,7 +209,6 @@
     "OS/4.File System/4.4 FS Management & Optimization.md",
     "OS/4.File System/4.3 File Syetem Implemention.md",
     "OS/4.File System/4.1 File System - from the user's view.md",
-    "OS/4.File System/4.5 Unix V7 File System.md",
     "OS/8.Multiple Processor Systems",
     "OS/6.Deadlocks",
     "OS/5.Input-Output",
@@ -216,7 +217,6 @@
     "DB/img/15/Pasted image 20250520131744.png",
     "DB/img/15/Pasted image 20250520131550.png",
     "Computer Network/CH4",
-    "무제",
     "Computer Graphic",
     "Computer Structure/CH4",
     "Computer Structure",
