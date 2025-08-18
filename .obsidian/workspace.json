@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Deffensive Security.md",
+                "file": "Security/Defensive Security/Areas of Defensive Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deffensive Security"
+              "title": "Areas of Defensive Security"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "679e849e17156818",
@@ -182,8 +181,10 @@
   },
   "active": "a088057e77e70610",
   "lastOpenFiles": [
+    "Security/Defensive Security/무제.md",
+    "Security/Defensive Security/Areas of Defensive Security.md",
+    "Security/Defensive Security",
     "Computer Network-Book/CH7.통신을 도와주는 네트워크 주요 기술.md",
-    "Security/Deffensive Security.md",
     "Security",
     "Computer Network-Book",
     "OS/6.Deadlocks/6.4. Deadlock detection and recovery.md",
@@ -210,7 +211,6 @@
     "Computer Network/CH4/4.4 Generalized Forwarding, SDN.md",
     "Computer Network/CH5/5.2 Routing Protocols.md",
     "OS/4.File System/4.4 FS Management & Optimization.md",
-    "OS/4.File System/4.3 File Syetem Implemention.md",
     "OS/8.Multiple Processor Systems",
     "OS/6.Deadlocks",
     "OS/5.Input-Output",
@@ -221,7 +221,6 @@
     "Computer Network/CH4",
     "Computer Graphic",
     "Computer Structure/CH4",
-    "Computer Structure",
     "Pasted image 20250606175339.png",
     "DB/img/15/Dense_Index_2.png",
     "OS/img/4/File Operations.png",
