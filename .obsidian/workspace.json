@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "음악감상"
             }
-          },
-          {
-            "id": "c10ecdd941be345d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c10ecdd941be345d",
+  "active": "552fd1a5c9815d91",
   "lastOpenFiles": [
     "Node.js/Node.js 기초.md",
     "OPIC/음악감상.md",
