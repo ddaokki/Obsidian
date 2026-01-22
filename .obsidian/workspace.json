@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPIC/음악감상.md",
+                "file": "OPIC/공원가기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "음악감상"
+              "title": "공원가기"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "552fd1a5c9815d91",
   "lastOpenFiles": [
-    "Node.js/Node.js 기초.md",
+    "OPIC/콘서트, 공연보기.md",
+    "OPIC/공원가기.md",
     "OPIC/음악감상.md",
+    "Node.js/Node.js 기초.md",
     "OPIC/무제",
     "OPIC",
     "Computer Network/CH3/+.Summary + Additional Slides.md",
@@ -216,8 +218,6 @@
     "Computer Network/CH3/6. Connection-oriented transport TCP.md",
     "Computer Network/CH3/5. Principles of reliable data transfer.md",
     "Computer Network/CH4/4.2 Router.md",
-    "Computer Network/CH4/4.3 IP.md",
-    "Computer Network/CH4/4.5 Middleboxes.md",
     "OS/8.Multiple Processor Systems",
     "DB/img/15/Pasted image 20250520132826.png",
     "DB/img/15/Pasted image 20250520131744.png",
