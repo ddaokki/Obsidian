@@ -1,5 +1,10 @@
 {
   "spellcheck": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "smartIndentList": true,
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "autoConvertHtml": true
 }
