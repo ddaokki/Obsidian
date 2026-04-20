@@ -4,7 +4,7 @@
   "maxHeadingLevel": 1,
   "removeEmptyElements": false,
   "cascadeHeadingLevels": true,
-  "contextualCascade": true,
+  "contextualCascade": false,
   "stripLineBreaks": false,
   "convertToSingleSpaced": false,
   "removeEmptyLines": true,
