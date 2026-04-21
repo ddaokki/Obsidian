@@ -25,12 +25,14 @@
             "id": "5550d155f4fc88b5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Distributed System Computing/CH4. Communication (~20p).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "icon": "lucide-file",
+              "title": "CH4. Communication (~20p)"
             }
           }
         ],
