@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "요약본"
             }
+          },
+          {
+            "id": "5550d155f4fc88b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "552fd1a5c9815d91",
+  "active": "5550d155f4fc88b5",
   "lastOpenFiles": [
     "Distributed System Computing/CH3. Process.md",
     "Distributed System Computing/CH4. Communication (~20p).md",
