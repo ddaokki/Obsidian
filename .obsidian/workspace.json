@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embadded System Software/4. Blocking IO.md",
+                "file": "Embadded System Software/5. GPIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Blocking IO"
+              "title": "5. GPIO"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "5550d155f4fc88b5",
   "lastOpenFiles": [
-    "Embadded System Software/5. GPIO.md",
     "Embadded System Software/4. Blocking IO.md",
+    "Embadded System Software/5. GPIO.md",
     "Embadded System Software/3. Basic Kernel Functions.md",
     "Embadded System Software/2. Character Device Drivers.md",
     "Embadded System Software/1. Kernel Modules.md",
